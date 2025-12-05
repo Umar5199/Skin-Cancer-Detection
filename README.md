@@ -32,6 +32,10 @@ The HAM10000 dataset contains:
 > **Note**: Images and metadata are included in the project repository under `HAM10000_images_part_1`, `HAM10000_images_part_2`, and `HAM10000_metadata.csv`.
 
 ---
+![Class Distribution](charts/class_counts_dx.png)
+![Age Distribution](charts/age_distribution.png)
+![Sex by Diagnosis](charts/sex_by_dx.png)
+
 
 ## Installation & Requirements
 1. Clone the repository:
